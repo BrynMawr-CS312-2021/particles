@@ -3,7 +3,7 @@
 
 #include "AGL.h"
 #include "AGLM.h"
-#include "Image.h"
+#include "image.h"
 #include <string>
 
 namespace agl {
